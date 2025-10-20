@@ -10,17 +10,17 @@ Determine the average price of houses.
 
 Assess the average price of homes with specific features, such as number of floors or a view rating.
 
-Additionally, the project explores Spark's capabilities in creating temporary views, partitioning data, and optimizing performance through caching and uncaching tables.
+Additionally, the project demonstrates ETL and data engineering concepts including temporary views, partitioning, and query optimization through caching and uncaching.
 
 🧰 Technologies Used
 
-Apache SparkSQL: For large-scale data processing and querying.
+Python (PySpark): For data processing and analysis.
 
-Python: As the primary programming language.
+Apache SparkSQL: For large-scale data querying.
 
-Jupyter Notebook: For interactive development and visualization.
+Jupyter Notebook: For interactive development.
 
-Google Colab
+Pandas: For data inspection and manipulation.
 
 📂 Project Structure
 
